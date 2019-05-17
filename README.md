@@ -5,3 +5,4 @@
 
 The code for this recipe is licensed under the [MIT License](http://opensource.org/licenses/MIT).
 # simple-slack
+Built on Meteor 1.3 . Download and run.
